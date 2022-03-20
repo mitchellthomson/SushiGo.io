@@ -10,3 +10,8 @@
 14 dumplings
 14 sashimi
 14 tempura
+
+2 player 10 cards
+3 player 9 cards
+4 player 8 cards
+5 player 7 cards
